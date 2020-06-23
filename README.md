@@ -12,8 +12,16 @@ In this project, you'll implement SLAM (Simultaneous Localization and Mapping) f
 Project Instructions
 The project will be broken up into three Python notebooks; the first two are for exploration of provided code, and a review of SLAM architectures, only Notebook 3 and the robot_class.py file will be graded:
 
-[__Notebook 1__](./1.%20Robot%20Moving%20and%20Sensing.html) : Robot Moving and Sensing
+[__Notebook 1__](./1.%20Robot%20Moving%20and%20Sensing.ipynb) : Robot Moving and Sensing
 
-__Notebook 2__ : Omega and Xi, Constraints 
+[__Notebook 2__](./2.%20Omega%20and%20Xi%2C%20Constraints.ipynb) : Omega and Xi, Constraints 
 
-[__Notebook 3__](./3.%20Landmark%20Detection%20and%20Tracking.html) : Landmark Detection and Tracking 
+[__Notebook 3__](./3.%20Landmark%20Detection%20and%20Tracking%20(2).ipynb) : Landmark Detection and Tracking 
+
+You can also view the helper files writen as part of this project.
+
+[__helper__](./helpers.py) : Init module for robot control
+
+[__Robot__](./robot_class.py): Init module for robot sensing 
+
+LICENSE: This project is licensed under the terms of the MIT license.
